@@ -52,3 +52,4 @@ for i in range(1, numOfIteration):
 t = 0.5
 plt.plot((4, 10),(-(w[0]+4*w[1]+ np.log(1/t-1))/w[2], -(w[0] + 10*w[1]+ np.log(1/t-1))/w[2]), 'g')
 plt.show()
+print("Nam LD add custome")
